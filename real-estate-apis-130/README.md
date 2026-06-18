@@ -9,7 +9,7 @@
 | API Name | Description |
 |----------|-------------|
 | [New Fast Airbnb Scraper](https://apify.com/tri_angle/new-fast-airbnb-scraper?fpr=k4o9ms) | Scrape destinations on Airbnb. Extract places and their prices, ratings, reviews counts, images and other details. Download scraped data in various formats including HTML, JSON and Excel. |
-| [✨ Crexi Extractor](https://apify.com/jupri/crexi?fpr=p2hrc6) | 💫 All-in-One Crexi.com Agents & Homes Scraper |
+| [✨ Crexi Extractor](https://apify.com/jupri/crexi?fpr=k4o9ms) | 💫 All-in-One Crexi.com Agents & Homes Scraper |
 | [🌟Free Airbnb Scraper](https://apify.com/curious_coder/airbnb-scraper?fpr=k4o9ms) | Scrape airbnb listings from search results and extract complete details for each property including cost, description, photos, review, rating and host details, etc |
 | [Airbnb Images Downloader](https://apify.com/rigelbytes/airbnb-images-downloader?fpr=k4o9ms) | Airbnb Listing Image Downloader lets you download all images from any Airbnb listing, providing a convenient zip file. Use your proxies to scrape data at scale and avoid restrictions. Simply input the... |
 | [Airbnb Occupancy Scraper](https://apify.com/dataharvester/airbnb-occupancy-scraper?fpr=k4o9ms) | Instantly scrape Airbnb pricing data to access detailed rate information for any room ID. |
